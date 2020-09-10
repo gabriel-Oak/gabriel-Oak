@@ -1,16 +1,16 @@
-### Hi there 👋
+# About Me
+<p align="left">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Gabriel&nbsp;Carvalho&nbsp;Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-costa/)](https://www.linkedin.com/in/gabriel-carvalho-costa/)
+</p>
 
-<!--
-**gabriel-Oak/gabriel-Oak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a programmer. I love to create useful  things that help people and improve my knowledge. And last of all, I Love Pizza!
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-Oak&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-Oak&hide=Ruby,Html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Extra Pins
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=smn-almoco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=curso-GoStack&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=pokedex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=Orangenda&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
