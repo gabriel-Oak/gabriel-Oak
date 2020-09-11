@@ -6,7 +6,7 @@
 
 Hi, I'm a programmer. I love to create useful  things that help people and improve my knowledge. And last of all, I Love Pizza!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabriel-Oak&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=gabriel-Oak&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gabriel-Oak)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-Oak&hide=Ruby,Html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Extra Pins
