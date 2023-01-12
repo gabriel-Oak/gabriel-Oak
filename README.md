@@ -4,13 +4,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Gabriel&nbsp;Carvalho&nbsp;Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-carvalho-costa/)](https://www.linkedin.com/in/gabriel-carvalho-costa/)
 </p>
 
-Hi, I'm a programmer. I love to create useful  things that help people and improve my knowledge. And last of all, I Love Pizza!
+Hello, I've been working with programming since 2019. I love what I do and I do it because I love it. I work mainly with the Javascript and Flutter stack, working with the best practices in systems development. I like to apply the concept of clean architecture to my projects and clean code, but none of that would make sense if systems didn't deliver something useful to people first and foremost. So I would say that my greatest passion is to transform everyday life with intelligent solutions that make a difference.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=gabriel-Oak&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gabriel-Oak)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-Oak&hide=Ruby,Html&theme=tokyonight)](https://github.com/gabriel-Oak)
+When I'm not with my face at a computer you can find me hiking in the woods, camping or climbing rocks for fun.
 
-## Extra Pins
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=smn-almoco&theme=tokyonight)](https://github.com/gabriel-Oak/smn-almoco)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=lunis-api&theme=tokyonight)](https://github.com/gabriel-Oak/lunis-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=pokedex&theme=tokyonight)](https://github.com/gabriel-Oak/pokedex)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-Oak&repo=Orangenda&theme=tokyonight)](https://github.com/gabriel-Oak/Orangenda)
